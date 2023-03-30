@@ -3,7 +3,7 @@
 
 💼 I’m currently working on FIAP <br>
 💻 Cybersecurity Student at FIAP <br>
-👁️ Familiar with C, C++, C#, Python and JavaScript <br>
+👁️ Familiar programmimg with C, C++, C#, Python and JavaScript <br>
 ☯️ Member of Team Porão <br>
 
 Give me a job and I'll do it.
