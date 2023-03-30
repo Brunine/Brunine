@@ -1,5 +1,9 @@
-<img align="right" height="500em" src=https://i.postimg.cc/SsZmkZGc/gitbanner.png>
+<img align="right" height="500em" src=https://i.postimg.cc/2yk3xczt/gitbanner2.png>
 <h1>Brunine ☠️</h1>
 
 💼 I’m currently working on FIAP <br>
 💻 Cybersecurity Student at FIAP <br>
+👁️ Familiar with C, C++, C#, Python and JavaScript <br>
+☯️ Member of Team Porão <br>
+
+Give me a job and I'll do it.
