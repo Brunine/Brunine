@@ -6,8 +6,6 @@
 👁️ Familiar programmimg with C, C++, C#, Python and JavaScript <br>
 ☯️ Member of Team Porão <br>
 
-Give me a job and I'll do it.
-
 ## Hobbies
 
 <a href="https://tryhackme.com/p/Brunine" target="_blank">TryHackMe</a>
