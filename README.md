@@ -4,7 +4,7 @@
 💼 I’m currently working on FIAP <br>
 💻 Cybersecurity Student at FIAP <br>
 👁️ Familiar programmimg with C, C++, C#, Python and JavaScript <br>
-☯️ Member of Team Porão <br>
+☯️ CTF Player at Team Porão <br>
 
 ## Hobbies
 
