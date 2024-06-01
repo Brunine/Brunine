@@ -5,6 +5,7 @@
 💻 Cybersecurity Student at FIAP <br>
 👁️ Familiar programmimg with C, C++, C#, Python and JavaScript <br>
 ☯️ CTF Player at Team Porão <br>
+☯️ Founder of Porão Security <br>
 
 ## Hobbies
 
